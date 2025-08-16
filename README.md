@@ -1,5 +1,5 @@
 # 📊Power-BI-Dashboard-for-Retail-Insights
-![]()
+![Dashboard](dashboard.png)
 
 ---
 ## 📝 Task Overview  
